@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpawnPoint
+  - Enemy
+  - Bullet
+  - Ammo
+  - Health
+  - FlameFuelTank
+  - TeslaCoil
+  - AcidFuelTank
+  - Igniter
+  - BatteryPack
+  - PatrolPoint
+  - WeaponBase
+  - WeaponAcid
+  - WeaponFlame
+  - WeaponTesla
+  - EnemyBullet
+  - Muzzle
+  - DifficultySlider
+  - EnemyManager
+  - WeponUpgradeHelpPanel
+  - PrimaryHelpPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer1
+    uniqueID: 2562131481
+    locked: 0
